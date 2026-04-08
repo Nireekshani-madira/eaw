@@ -13,12 +13,15 @@ Edu Awareness App is a colorful, student-friendly mobile application built using
 📊 Progress Tracker to monitor learning
 🏠 Clean Dashboard with navigation
 🎨 Attractive UI with student-friendly design
+
+
 🛠️ Tech Stack
 Frontend: Flutter (Dart)
 Backend: Firebase
 Authentication: Firebase Authentication
 Database: Firestore / Realtime Database
 State Management: (Provider / setState / as used in project)
+
 
 📁 Project Structure
 edu_app/
